@@ -1,83 +1,83 @@
 {
     "questionBank": [
         {
-            "question": "What is a Schmeckle?",
-            "a": "Ricks favorite food",
-            "b": "A currency",
-            "c": "The name of fly-guards",
-            "d": "Ricks Cat-person friend",
+            "question": "Which of the following creates the correct syntax of an multidimensional array  called page",
+            "a": "char[][] = new page[30][100];",
+            "b": "char[][] page = new char[30][100];",
+            "c": "new char[][] page = char[30][100];",
+            "d": "page = new page[30][100]<char>;",
             "correctAnswer": "b"
         },
         {
-            "question": "Which of the following is NOT one of Rick catch phrases?",
-            "a": "No jumping in the sewer.",
-            "b": "GRASSSSS... tastes bad!",
-            "c": "Hit the deck, Jack!",
-            "d": "Uh ohhhh! Somersoult jump!",
+            "question": "Is a multidimensional array an array of arrays?",
+            "a": "No",
+            "b": "I dont know",
+            "c": "Yes",
+            "d": "I don't know, but with sass",
             "correctAnswer": "c"
         },
         {
-            "question": "Which is the dimension of the original Rick?",
-            "a": "C-126",
-            "b": "C-132",
-            "c": "C-129",
-            "d": "C-137",
+            "question": "let's say there exists 'int[][] inputArr' How do you get the height of this multidimensional array?",
+            "a": "inputArr.length",
+            "b": "inputArr[0].length",
+            "c": "inputArr[-1].length",
+            "d": "inputArr[0][0].length",
+            "correctAnswer": "a"
+        },
+        {
+            "question": "lets say there exists an multidimensional array 'int[][] inputArr = new int[25][25]'. how do you access the bottom right most element?",
+            "a": "inputArr[24][24]",
+            "b": "inputArr[0][0]",
+            "c": "inputArr[0][24]",
+            "d": "inputArr[24][0]",
+            "correctAnswer": "a"
+        },
+        {
+            "question": "What is the super Constructor?",
+            "a": " allows you invoke a constructor of the base class within the definition of a derived class constructor",
+            "b": "A more safer way to invoke a constructor",
+            "c": "Allows you to inherit from multiple constructors",
+            "d": "Deez nutz, ha goteeeeem",
+            "correctAnswer": "a"
+        },
+        {
+            "question": "Which one of these statements is NOT about inheritance?",
+            "a": "it is one of the main techniques of OOP",
+            "b": "means that a very general form of a class can be defined and compiled",
+            "c": "process by which a new class—known as a derived class—is created from another class, called the base class.",
+            "d": "all is correct",
             "correctAnswer": "d"
         },
         {
-            "question": "What is the name of Mortys High School?",
-            "a": "Beerwah State High School",
-            "b": "Harry Herpson High School",
-            "c": "Gene Vegan High School",
-            "d": "FIU",
+            "question": "let's say there exists 'int[][] inputArr' How do you get the width of this multidimensional array?",
+            "a": "inputArr.length",
+            "b": "inputArr[0].length",
+            "c": "inputArr[-1].length",
+            "d": "inputArr[0][0].length",
             "correctAnswer": "b"
         },
         {
-            "question": "What is the name of Jerrys favorite Rick?",
-            "a": "Doofus",
-            "b": "Roofus",
-            "c": "Goofus",
-            "d": "Rick G-506",
-            "correctAnswer": "a"
-        },
-        {
-            "question": "What is the name of Ricks ex-wife?",
-            "a": "Diane",
-            "b": "Janet",
-            "c": "Joyce",
-            "d": "Ellen",
-            "correctAnswer": "a"
-        },
-        {
-            "question": "What job does Beth have?",
-            "a": "Chef",
-            "b": "Novel Writer",
-            "c": "Astronomer",
-            "d": "Horse Surgeon",
+            "question": "Which of these is the JAVA syntax that allows a class to inherit from another class?",
+            "a": ":",
+            "b": "inherits",
+            "c": "superclass",
+            "d": "extends",
             "correctAnswer": "d"
         },
         {
-            "question": "What does wubba lubba dub dub mean?",
-            "a": "I'm a genius",
-            "b": "Let's party",
-            "c": "Please leave",
-            "d": "I'm in great pain",
-            "correctAnswer": "d"
+            "question": "What does overriding mean?",
+            "a": "The base class method being redefined in the derived class",
+            "b": "The derived class method being redefined in the base class",
+            "c": "It makes sure the derived class method cannot redefine its method",
+            "d": "It makes sure the base class method cannot redefine its method",
+            "correctAnswer": "a"
         },
         {
-            "question": "Who killed Birdperson in a horrific turnabout during his wedding?",
-            "a": "Jerry",
-            "b": "Summer",
-            "c": "Tammy",
-            "d": "Beth",
-            "correctAnswer": "c"
-        },
-        {
-            "question": "What species is Morty's son?",
-            "a": "Smarkian",
-            "b": "Gazorpazorp",
-            "c": "Cromulan",
-            "d": "Human",
+            "question": "What does inheritance NOT do",
+            "a": "It reduces code length",
+            "b": "It increases cpu performance",
+            "c": "It makes your code more readable",
+            "d": "Makes pete into an OP programmer",
             "correctAnswer": "b"
         }
     ]
